@@ -1,0 +1,17 @@
+/* find by class use .*/
+body{
+    font-size: 20px;
+    font-family: monospace;
+    background-color: lightblue;
+  }
+
+#CenterCol{
+  border-right: 5px dashed #910295;
+  border-left: 5px dashed #910295;
+  height: 100%;
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: #910295;
+}
